@@ -1,0 +1,26 @@
+_repo: Snow-Blind_7520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burt, Katharine Newlin
+    alias: Newlin, Katharine
+    birthdate: 1882
+    deathdate: 1977
+    gutenberg_agent_id: '2500'
+    url: http://www.gutenberg.org/2009/agents/2500
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitives from justice -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Actresses -- Fiction'
+- GITenberg
+title: Snow-Blind
+url: http://www.gutenberg.org/ebooks/7520
